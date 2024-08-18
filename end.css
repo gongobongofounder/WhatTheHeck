@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&family=Redacted&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&family=Redacted&family=Redacted+Script:wght@300;400;700&display=swap');
+
+body {
+    background-image: url('ghost.jpeg');
+    background-size: cover; /* Makes sure the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    height: 200px;
+}
+
+.End {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 309px;
+    border: 2px solid red;
+    border-radius: 31px;
+    width: 472px;
+    margin-left: 511px;
+    height: 70px;
+    background-color: black;
+}
+
+
+.endtext {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+}

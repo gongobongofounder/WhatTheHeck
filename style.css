@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&family=Redacted&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Nabla&family=Nanum+Gothic+Coding&family=Redacted&family=Redacted+Script:wght@300;400;700&display=swap');
+
+.container {
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box1 {
+    height: 23px;
+    width: 777px;
+    border: 2px solid black;
+    padding: 4px;
+    background-color: rgb(45, 44, 44);
+    color: white;
+}
+
+.box2 {
+    height: 600px;
+    width: 777px;
+    border: 2px solid black;
+    padding: 4px;
+    background-color: rgb(45, 44, 44);
+    color: white;
+}
+
+.box3 {
+    display: flex;
+    gap: 103px;
+    padding: 10px;
+}
+
+.text {
+    font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.loading {
+    font-family: "Redacted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.task {
+    font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: green
+}
+
+.task-load {
+    font-family: "Redacted Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: red;
+}
+
